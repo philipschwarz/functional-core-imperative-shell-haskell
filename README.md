@@ -2,4 +2,4 @@
 
 To run the program:
 * $ stack repl
-* $ main
+* *Main Lib Paths_functional_core_imperative_shell_haskell> main
